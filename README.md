@@ -2,7 +2,7 @@
 Decoding MAVLink Telemetry on a ESP32 LoRa board with OLED display
 
 5/1/20
-Ha, almost a year later.....  Still a work in progress, pickingit back up soon.
+Ha, almost a year later.....  Still a work in progress, picking it back up soon.
 
 5/30/19
 
